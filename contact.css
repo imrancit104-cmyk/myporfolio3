@@ -1,0 +1,46 @@
+.contact{
+    width: 435px;
+   border: 1px solid deeppink;
+    margin-left: 400px;
+    margin-top: 50px;
+    height: 450px;
+    background:linear-gradient(deeppink, pink, rgb(100, 100, 224));
+    border-radius: 10px;
+}
+#email{
+    width: 340px;
+    height: 40px;
+    margin-left: 42px;
+    margin-top: 40px;
+}
+#textarea{
+    width: 340px;
+    height: 100px;
+     margin-left: 42px;
+    margin-top: 40px;
+}
+.reset{
+width: 150px;
+height:40px ;
+ margin-left: 42px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+.reset:hover{
+    background-color: deeppink;
+    transform: scale(1.1);
+}
+.contacth1{
+    margin-left: 70px;padding-top:20px;font-size: 35px;font-family: Arial, Helvetica, sans-serif;color: deeppink; border-radius: 50px;
+}
+.contactdiv{
+    width: 800px;
+    height:80px;
+    margin-left: 250px;
+    border-radius: 50px;
+    box-shadow: 2px  3px  20px  rgb(255, 2, 137);
+
+}
+body{
+    background-color: black;
+}
